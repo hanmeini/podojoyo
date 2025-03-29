@@ -1,0 +1,1175 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "productTitle": "HP Victus Gaming 15 FA0116TX",
+          "productPrice": "12499999",
+          "productDescription": "HP Victus Gaming 15-FA0116TX I5 12500H/8GB/512/GTX1650 4GB/W11+OHS21/15.6\"FHD IPS/BL",
+          "productRating": 5,
+          "category": "Series Gaming",
+          "createdAt": "2024-05-08T02:23:44.904Z",
+          "updatedAt": "2024-05-08T02:25:04.975Z",
+          "publishedAt": "2024-05-08T02:25:04.966Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 3,
+                "attributes": {
+                  "name": "pictus1.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 800,
+                  "height": 800,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_pictus1.jpg",
+                      "hash": "thumbnail_pictus1_bca50019fd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 2.59,
+                      "sizeInBytes": 2592,
+                      "url": "/uploads/thumbnail_pictus1_bca50019fd.jpg"
+                    },
+                    "small": {
+                      "name": "small_pictus1.jpg",
+                      "hash": "small_pictus1_bca50019fd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 14.73,
+                      "sizeInBytes": 14731,
+                      "url": "/uploads/small_pictus1_bca50019fd.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_pictus1.jpg",
+                      "hash": "medium_pictus1_bca50019fd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 27.41,
+                      "sizeInBytes": 27414,
+                      "url": "/uploads/medium_pictus1_bca50019fd.jpg"
+                    }
+                  },
+                  "hash": "pictus1_bca50019fd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 29.81,
+                  "url": "/uploads/pictus1_bca50019fd.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-08T02:11:11.206Z",
+                  "updatedAt": "2024-05-08T02:11:11.206Z"
+                }
+              },
+              {
+                "id": 4,
+                "attributes": {
+                  "name": "pictus2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 800,
+                  "height": 800,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_pictus2.jpg",
+                      "hash": "thumbnail_pictus2_5cc9596ef8",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 2.07,
+                      "sizeInBytes": 2072,
+                      "url": "/uploads/thumbnail_pictus2_5cc9596ef8.jpg"
+                    },
+                    "small": {
+                      "name": "small_pictus2.jpg",
+                      "hash": "small_pictus2_5cc9596ef8",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 10.31,
+                      "sizeInBytes": 10306,
+                      "url": "/uploads/small_pictus2_5cc9596ef8.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_pictus2.jpg",
+                      "hash": "medium_pictus2_5cc9596ef8",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 18.87,
+                      "sizeInBytes": 18873,
+                      "url": "/uploads/medium_pictus2_5cc9596ef8.jpg"
+                    }
+                  },
+                  "hash": "pictus2_5cc9596ef8",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 20.59,
+                  "url": "/uploads/pictus2_5cc9596ef8.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-08T02:11:11.222Z",
+                  "updatedAt": "2024-05-08T02:11:11.222Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "productTitle": "Lenovo yoga slim 7 pro",
+          "productPrice": "18999999",
+          "productDescription": "YOGA SLIM 7 PRO-07ID I7 12700H/16GB/SSD 1TB/RTX2050 4GB/W11+OHS21",
+          "productRating": 5,
+          "category": "Notebook",
+          "createdAt": "2024-05-09T12:18:17.643Z",
+          "updatedAt": "2024-05-10T09:52:14.229Z",
+          "publishedAt": "2024-05-09T12:18:28.888Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 10,
+                "attributes": {
+                  "name": "yoga.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 400,
+                  "height": 400,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_yoga.jpg",
+                      "hash": "thumbnail_yoga_97c46c77f4",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 3.82,
+                      "sizeInBytes": 3818,
+                      "url": "/uploads/thumbnail_yoga_97c46c77f4.jpg"
+                    }
+                  },
+                  "hash": "yoga_97c46c77f4",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 15.79,
+                  "url": "/uploads/yoga_97c46c77f4.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T09:50:42.748Z",
+                  "updatedAt": "2024-05-10T09:50:42.748Z"
+                }
+              },
+              {
+                "id": 11,
+                "attributes": {
+                  "name": "yoga2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 900,
+                  "height": 900,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_yoga2.jpg",
+                      "hash": "thumbnail_yoga2_6ed6003a1b",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 3.64,
+                      "sizeInBytes": 3637,
+                      "url": "/uploads/thumbnail_yoga2_6ed6003a1b.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_yoga2.jpg",
+                      "hash": "medium_yoga2_6ed6003a1b",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 40.13,
+                      "sizeInBytes": 40134,
+                      "url": "/uploads/medium_yoga2_6ed6003a1b.jpg"
+                    },
+                    "small": {
+                      "name": "small_yoga2.jpg",
+                      "hash": "small_yoga2_6ed6003a1b",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 20.89,
+                      "sizeInBytes": 20890,
+                      "url": "/uploads/small_yoga2_6ed6003a1b.jpg"
+                    }
+                  },
+                  "hash": "yoga2_6ed6003a1b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 52.16,
+                  "url": "/uploads/yoga2_6ed6003a1b.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T09:51:54.634Z",
+                  "updatedAt": "2024-05-10T09:51:54.634Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "productTitle": "Infinix inbook x1 pro",
+          "productPrice": "8550000",
+          "productDescription": "lINFINIX INBOOK X1 PRO (I7) GREY I7 1065G7/16GB/512/Iris Plus/W10/14\"FHD IPS/100%sRGB/BAT 13 HOURS/45W/TYPE C/FAST CHARGER/FP/1Y",
+          "productRating": 4.5,
+          "category": "Notebook",
+          "createdAt": "2024-05-09T12:22:06.321Z",
+          "updatedAt": "2024-05-10T09:54:47.245Z",
+          "publishedAt": "2024-05-09T12:22:08.016Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 13,
+                "attributes": {
+                  "name": "infinix-inbook.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 444,
+                  "height": 444,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_infinix-inbook.png",
+                      "hash": "thumbnail_infinix_inbook_f9e7230752",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.21,
+                      "sizeInBytes": 4212,
+                      "url": "/uploads/thumbnail_infinix_inbook_f9e7230752.png"
+                    }
+                  },
+                  "hash": "infinix_inbook_f9e7230752",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 22.75,
+                  "url": "/uploads/infinix_inbook_f9e7230752.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T09:54:39.189Z",
+                  "updatedAt": "2024-05-10T09:54:39.189Z"
+                }
+              },
+              {
+                "id": 12,
+                "attributes": {
+                  "name": "infinix-inbook2.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 444,
+                  "height": 444,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_infinix-inbook2.png",
+                      "hash": "thumbnail_infinix_inbook2_76b1c5e387",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 3.62,
+                      "sizeInBytes": 3621,
+                      "url": "/uploads/thumbnail_infinix_inbook2_76b1c5e387.png"
+                    }
+                  },
+                  "hash": "infinix_inbook2_76b1c5e387",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 19.27,
+                  "url": "/uploads/infinix_inbook2_76b1c5e387.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T09:54:39.164Z",
+                  "updatedAt": "2024-05-10T09:54:39.164Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "productTitle": "Apple Macbook 2020 M1",
+          "productPrice": "13599999",
+          "productDescription": "IBOX MGND3ID Apple Macbook Air 2020 M1 8C CPU/8GB/256/GPU 7C OS X/13.3\"/1Y/ROSE GOLD/GAR RESMI IBOX",
+          "productRating": 5,
+          "category": "Macbook",
+          "createdAt": "2024-05-10T10:10:56.583Z",
+          "updatedAt": "2024-05-10T10:39:28.853Z",
+          "publishedAt": "2024-05-10T10:10:57.930Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 14,
+                "attributes": {
+                  "name": "macbook m1.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 699,
+                  "height": 699,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_macbook m1.jpg",
+                      "hash": "thumbnail_macbook_m1_4b718d4631",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 5.28,
+                      "sizeInBytes": 5276,
+                      "url": "/uploads/thumbnail_macbook_m1_4b718d4631.jpg"
+                    },
+                    "small": {
+                      "name": "small_macbook m1.jpg",
+                      "hash": "small_macbook_m1_4b718d4631",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 28.82,
+                      "sizeInBytes": 28824,
+                      "url": "/uploads/small_macbook_m1_4b718d4631.jpg"
+                    }
+                  },
+                  "hash": "macbook_m1_4b718d4631",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 47.74,
+                  "url": "/uploads/macbook_m1_4b718d4631.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:09:31.777Z",
+                  "updatedAt": "2024-05-10T10:09:31.777Z"
+                }
+              },
+              {
+                "id": 15,
+                "attributes": {
+                  "name": "macbook m1(2).jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 900,
+                  "height": 900,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_macbook m1(2).jpg",
+                      "hash": "thumbnail_macbook_m1_2_12700804cd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 7.58,
+                      "sizeInBytes": 7581,
+                      "url": "/uploads/thumbnail_macbook_m1_2_12700804cd.jpg"
+                    },
+                    "small": {
+                      "name": "small_macbook m1(2).jpg",
+                      "hash": "small_macbook_m1_2_12700804cd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 47.26,
+                      "sizeInBytes": 47258,
+                      "url": "/uploads/small_macbook_m1_2_12700804cd.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_macbook m1(2).jpg",
+                      "hash": "medium_macbook_m1_2_12700804cd",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 87.3,
+                      "sizeInBytes": 87299,
+                      "url": "/uploads/medium_macbook_m1_2_12700804cd.jpg"
+                    }
+                  },
+                  "hash": "macbook_m1_2_12700804cd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 118.19,
+                  "url": "/uploads/macbook_m1_2_12700804cd.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:09:31.810Z",
+                  "updatedAt": "2024-05-10T10:09:31.810Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "productTitle": "Asus Tuff Gaming fx507vv4",
+          "productPrice": "23999999",
+          "productDescription": "TUF FX507VV4-I946K6G-O I9 13900H/16GB/512/RTX4060 8GB/W11+OHS21/15.6\"FHD IPS/100%sRGB/1-ZONE RGB BL",
+          "productRating": 5,
+          "category": "Series Gaming",
+          "createdAt": "2024-05-10T10:43:40.374Z",
+          "updatedAt": "2024-05-10T10:43:45.844Z",
+          "publishedAt": "2024-05-10T10:43:45.836Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 16,
+                "attributes": {
+                  "name": "asustuff.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 439,
+                  "height": 439,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_asustuff.png",
+                      "hash": "thumbnail_asustuff_ab09224f07",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 3.9,
+                      "sizeInBytes": 3899,
+                      "url": "/uploads/thumbnail_asustuff_ab09224f07.png"
+                    }
+                  },
+                  "hash": "asustuff_ab09224f07",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 22.19,
+                  "url": "/uploads/asustuff_ab09224f07.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:42:14.733Z",
+                  "updatedAt": "2024-05-10T10:42:14.733Z"
+                }
+              },
+              {
+                "id": 17,
+                "attributes": {
+                  "name": "asustuff2.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 600,
+                  "height": 600,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_asustuff2.png",
+                      "hash": "thumbnail_asustuff2_b35d279ac4",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 1.83,
+                      "sizeInBytes": 1834,
+                      "url": "/uploads/thumbnail_asustuff2_b35d279ac4.png"
+                    },
+                    "small": {
+                      "name": "small_asustuff2.png",
+                      "hash": "small_asustuff2_b35d279ac4",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 11.17,
+                      "sizeInBytes": 11172,
+                      "url": "/uploads/small_asustuff2_b35d279ac4.png"
+                    }
+                  },
+                  "hash": "asustuff2_b35d279ac4",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 15.75,
+                  "url": "/uploads/asustuff2_b35d279ac4.png",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:42:14.770Z",
+                  "updatedAt": "2024-05-10T10:42:14.770Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "productTitle": "Acer A314 R24X",
+          "productPrice": "6799999",
+          "productDescription": "A314-R24X R3 7320/8GB/512/W11+OHS21/14\"/SILVER",
+          "productRating": 4,
+          "category": "Notebook",
+          "createdAt": "2024-05-10T10:47:24.302Z",
+          "updatedAt": "2024-05-13T06:49:11.209Z",
+          "publishedAt": "2024-05-10T10:47:25.837Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 19,
+                "attributes": {
+                  "name": "acer.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 300,
+                  "height": 300,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_acer.jpg",
+                      "hash": "thumbnail_acer_a5840af1bf",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.18,
+                      "sizeInBytes": 4179,
+                      "url": "/uploads/thumbnail_acer_a5840af1bf.jpg"
+                    }
+                  },
+                  "hash": "acer_a5840af1bf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 10.77,
+                  "url": "/uploads/acer_a5840af1bf.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:46:13.388Z",
+                  "updatedAt": "2024-05-10T10:46:13.388Z"
+                }
+              },
+              {
+                "id": 18,
+                "attributes": {
+                  "name": "acer2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 300,
+                  "height": 300,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_acer2.jpg",
+                      "hash": "thumbnail_acer2_bbe7272fb4",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 2.88,
+                      "sizeInBytes": 2882,
+                      "url": "/uploads/thumbnail_acer2_bbe7272fb4.jpg"
+                    }
+                  },
+                  "hash": "acer2_bbe7272fb4",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 7.24,
+                  "url": "/uploads/acer2_bbe7272fb4.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:46:13.372Z",
+                  "updatedAt": "2024-05-10T10:46:13.372Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "productTitle": " Lenovo Flex 5 i3",
+          "productPrice": "11299999",
+          "productDescription": "FLEX 5-7RID I3 1315U/8GB/512/W11+OHS21/14\"WUXGA IPS/FLIP/TOUCH/PEN/BL/ABYSS BLUE",
+          "productRating": 4.7,
+          "category": "Notebook",
+          "createdAt": "2024-05-10T10:50:31.088Z",
+          "updatedAt": "2024-05-10T10:50:32.549Z",
+          "publishedAt": "2024-05-10T10:50:32.545Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 21,
+                "attributes": {
+                  "name": "lenovoflex.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 702,
+                  "height": 702,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_lenovoflex.jpg",
+                      "hash": "thumbnail_lenovoflex_7a26efe914",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.97,
+                      "sizeInBytes": 4975,
+                      "url": "/uploads/thumbnail_lenovoflex_7a26efe914.jpg"
+                    },
+                    "small": {
+                      "name": "small_lenovoflex.jpg",
+                      "hash": "small_lenovoflex_7a26efe914",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 31.79,
+                      "sizeInBytes": 31793,
+                      "url": "/uploads/small_lenovoflex_7a26efe914.jpg"
+                    }
+                  },
+                  "hash": "lenovoflex_7a26efe914",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 53.98,
+                  "url": "/uploads/lenovoflex_7a26efe914.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:49:35.826Z",
+                  "updatedAt": "2024-05-10T10:49:35.826Z"
+                }
+              },
+              {
+                "id": 20,
+                "attributes": {
+                  "name": "lenovoflex2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 600,
+                  "height": 600,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_lenovoflex2.jpg",
+                      "hash": "thumbnail_lenovoflex2_bf7d6235ba",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.44,
+                      "sizeInBytes": 4436,
+                      "url": "/uploads/thumbnail_lenovoflex2_bf7d6235ba.jpg"
+                    },
+                    "small": {
+                      "name": "small_lenovoflex2.jpg",
+                      "hash": "small_lenovoflex2_bf7d6235ba",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 22.67,
+                      "sizeInBytes": 22670,
+                      "url": "/uploads/small_lenovoflex2_bf7d6235ba.jpg"
+                    }
+                  },
+                  "hash": "lenovoflex2_bf7d6235ba",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 29.1,
+                  "url": "/uploads/lenovoflex2_bf7d6235ba.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:49:35.801Z",
+                  "updatedAt": "2024-05-10T10:49:35.801Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "productTitle": "Rog g614ju",
+          "productPrice": "25799999",
+          "productDescription": "ROG G614JU-I745J6G-O STRIX G16 I7 13650HX/16GB/512/RTX4050 6GB/W11+OHS21/16\"FHD IPS/100%sRGB/4-ZONE RGB BL/MOUSE/GREY",
+          "productRating": 5,
+          "category": "Series Gaming",
+          "createdAt": "2024-05-10T10:55:17.816Z",
+          "updatedAt": "2024-05-10T10:56:30.554Z",
+          "publishedAt": "2024-05-10T10:56:30.547Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 23,
+                "attributes": {
+                  "name": "rog2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 225,
+                  "height": 225,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_rog2.jpg",
+                      "hash": "thumbnail_rog2_0e713b6fb6",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 2.58,
+                      "sizeInBytes": 2577,
+                      "url": "/uploads/thumbnail_rog2_0e713b6fb6.jpg"
+                    }
+                  },
+                  "hash": "rog2_0e713b6fb6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 3.93,
+                  "url": "/uploads/rog2_0e713b6fb6.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:54:14.078Z",
+                  "updatedAt": "2024-05-10T10:54:14.078Z"
+                }
+              },
+              {
+                "id": 22,
+                "attributes": {
+                  "name": "rog.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 224,
+                  "height": 224,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_rog.jpg",
+                      "hash": "thumbnail_rog_33b06ef5e6",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 3.27,
+                      "sizeInBytes": 3274,
+                      "url": "/uploads/thumbnail_rog_33b06ef5e6.jpg"
+                    }
+                  },
+                  "hash": "rog_33b06ef5e6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 5.18,
+                  "url": "/uploads/rog_33b06ef5e6.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T10:54:14.067Z",
+                  "updatedAt": "2024-05-10T10:54:14.067Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "productTitle": "Apple Macbook Air 13 M2 8c",
+          "productPrice": "22999999",
+          "productDescription": "IBOX MLXX3ID Apple Macbook Air 2022 M2 8C GPU/8GB/512/GPU 10C OS X/13.3\"/1Y/SPACE GREY/GAR RESMI IBOX",
+          "productRating": 5,
+          "category": "Macbook",
+          "createdAt": "2024-05-10T11:01:56.612Z",
+          "updatedAt": "2024-05-10T11:01:58.590Z",
+          "publishedAt": "2024-05-10T11:01:58.579Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 24,
+                "attributes": {
+                  "name": "macbook m2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 600,
+                  "height": 600,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_macbook m2.jpg",
+                      "hash": "thumbnail_macbook_m2_3205e6d2a0",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 4.22,
+                      "sizeInBytes": 4215,
+                      "url": "/uploads/thumbnail_macbook_m2_3205e6d2a0.jpg"
+                    },
+                    "small": {
+                      "name": "small_macbook m2.jpg",
+                      "hash": "small_macbook_m2_3205e6d2a0",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 25.81,
+                      "sizeInBytes": 25809,
+                      "url": "/uploads/small_macbook_m2_3205e6d2a0.jpg"
+                    }
+                  },
+                  "hash": "macbook_m2_3205e6d2a0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 35.02,
+                  "url": "/uploads/macbook_m2_3205e6d2a0.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:00:43.652Z",
+                  "updatedAt": "2024-05-10T11:00:43.652Z"
+                }
+              },
+              {
+                "id": 25,
+                "attributes": {
+                  "name": "macbook m2(2).jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 700,
+                  "height": 700,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_macbook m2(2).jpg",
+                      "hash": "thumbnail_macbook_m2_2_22789de0f8",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 2.88,
+                      "sizeInBytes": 2878,
+                      "url": "/uploads/thumbnail_macbook_m2_2_22789de0f8.jpg"
+                    },
+                    "small": {
+                      "name": "small_macbook m2(2).jpg",
+                      "hash": "small_macbook_m2_2_22789de0f8",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 17.98,
+                      "sizeInBytes": 17983,
+                      "url": "/uploads/small_macbook_m2_2_22789de0f8.jpg"
+                    }
+                  },
+                  "hash": "macbook_m2_2_22789de0f8",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 28.46,
+                  "url": "/uploads/macbook_m2_2_22789de0f8.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:00:43.682Z",
+                  "updatedAt": "2024-05-10T11:00:43.682Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "productTitle": "Asus M1403qa ryzen 5",
+          "productPrice": "8499999",
+          "productDescription": "Asus M1403QA-VIPS551 R5 5600H/8GB/512/W11+OHS21/14\"WUXGA IPS/BL/FP/QUIET BLUE,",
+          "productRating": 4.6,
+          "category": "Notebook",
+          "createdAt": "2024-05-10T11:06:55.259Z",
+          "updatedAt": "2024-05-10T11:06:57.640Z",
+          "publishedAt": "2024-05-10T11:06:57.628Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 27,
+                "attributes": {
+                  "name": "asusm1.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 900,
+                  "height": 900,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_asusm1.jpg",
+                      "hash": "thumbnail_asusm1_6c6d9f7b22",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 5.33,
+                      "sizeInBytes": 5327,
+                      "url": "/uploads/thumbnail_asusm1_6c6d9f7b22.jpg"
+                    },
+                    "small": {
+                      "name": "small_asusm1.jpg",
+                      "hash": "small_asusm1_6c6d9f7b22",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 39.37,
+                      "sizeInBytes": 39368,
+                      "url": "/uploads/small_asusm1_6c6d9f7b22.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_asusm1.jpg",
+                      "hash": "medium_asusm1_6c6d9f7b22",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 82.16,
+                      "sizeInBytes": 82159,
+                      "url": "/uploads/medium_asusm1_6c6d9f7b22.jpg"
+                    }
+                  },
+                  "hash": "asusm1_6c6d9f7b22",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 119.91,
+                  "url": "/uploads/asusm1_6c6d9f7b22.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:05:48.644Z",
+                  "updatedAt": "2024-05-10T11:05:48.644Z"
+                }
+              },
+              {
+                "id": 26,
+                "attributes": {
+                  "name": "asusm1(2).jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 900,
+                  "height": 900,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_asusm1(2).jpg",
+                      "hash": "thumbnail_asusm1_2_99bd096588",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 6.38,
+                      "sizeInBytes": 6377,
+                      "url": "/uploads/thumbnail_asusm1_2_99bd096588.jpg"
+                    },
+                    "small": {
+                      "name": "small_asusm1(2).jpg",
+                      "hash": "small_asusm1_2_99bd096588",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 57.02,
+                      "sizeInBytes": 57023,
+                      "url": "/uploads/small_asusm1_2_99bd096588.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_asusm1(2).jpg",
+                      "hash": "medium_asusm1_2_99bd096588",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 750,
+                      "size": 122.7,
+                      "sizeInBytes": 122700,
+                      "url": "/uploads/medium_asusm1_2_99bd096588.jpg"
+                    }
+                  },
+                  "hash": "asusm1_2_99bd096588",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 178.54,
+                  "url": "/uploads/asusm1_2_99bd096588.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:05:48.620Z",
+                  "updatedAt": "2024-05-10T11:05:48.620Z"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "productTitle": "Hp 14s em0032au ryzen 3 ram",
+          "productPrice": "7199999",
+          "productDescription": "HP 14-EM0032AU R3 7320/8GB/512/W11+OHS21/14\"FHD/BLACK",
+          "productRating": 4,
+          "category": "Notebook",
+          "createdAt": "2024-05-10T11:17:34.902Z",
+          "updatedAt": "2024-05-10T11:18:59.151Z",
+          "publishedAt": "2024-05-10T11:17:36.696Z",
+          "productImg": {
+            "data": [
+              {
+                "id": 29,
+                "attributes": {
+                  "name": "hp.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 600,
+                  "height": 600,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_hp.jpg",
+                      "hash": "thumbnail_hp_832726e15d",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 156,
+                      "height": 156,
+                      "size": 5.63,
+                      "sizeInBytes": 5633,
+                      "url": "/uploads/thumbnail_hp_832726e15d.jpg"
+                    },
+                    "small": {
+                      "name": "small_hp.jpg",
+                      "hash": "small_hp_832726e15d",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 500,
+                      "size": 33.4,
+                      "sizeInBytes": 33402,
+                      "url": "/uploads/small_hp_832726e15d.jpg"
+                    }
+                  },
+                  "hash": "hp_832726e15d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 45.52,
+                  "url": "/uploads/hp_832726e15d.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:16:30.799Z",
+                  "updatedAt": "2024-05-10T11:16:30.799Z"
+                }
+              },
+              {
+                "id": 30,
+                "attributes": {
+                  "name": "hp2.jpg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 261,
+                  "height": 193,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_hp2.jpg",
+                      "hash": "thumbnail_hp2_80f0c108c4",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 211,
+                      "height": 156,
+                      "size": 2.3,
+                      "sizeInBytes": 2296,
+                      "url": "/uploads/thumbnail_hp2_80f0c108c4.jpg"
+                    }
+                  },
+                  "hash": "hp2_80f0c108c4",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 2.88,
+                  "url": "/uploads/hp2_80f0c108c4.jpg",
+                  "previewUrl": null,
+                  "provider": "local",
+                  "provider_metadata": null,
+                  "createdAt": "2024-05-10T11:18:37.524Z",
+                  "updatedAt": "2024-05-10T11:18:37.524Z"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 11
+      }
+    }
+  }
